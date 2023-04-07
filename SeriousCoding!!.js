@@ -1,8 +1,8 @@
-//  window.onload=function GiftForShacoMains(){
-//    while(true){
-//     console.log("yes")
-//    }
-//  }
+ window.onload=function GiftForShacoMains(){
+   while(true){
+    console.log("yes")
+   }
+ }
  
 //stalling stuff
 $("body").css({
